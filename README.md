@@ -6,9 +6,8 @@ A Basic Java Application for demonstrating the implementation of the stack data 
 
 -For Linux or MacOS Users, To run the project from the command line, go to the dist folder and
 type the following:
-'''
-	java -jar "dist/JStackDemo.jar"
-'''
+
+>	java -jar "dist/JStackDemo.jar"
 
 ## Screenshots:
 ![enter image description here](dist/ss01.png)
